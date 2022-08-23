@@ -4,6 +4,10 @@
 <a href="https://discord.gg/R9TYVk7GKD">
   <img align="left" alt="DaZzelr's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+<p align="center">
+  <a href="https://discord.com/users/818410274758721579">
+     <img src="https://discord.c99.nl/widget/theme-4/818410274758721579.png" alt="DaZzelr#8144 ( 818410274758721579 )"/>
+       </a>
 <br><br>
 I am Tanishq Saini, and I am a Programmer, Software Developer and Discord Developer. 
   
