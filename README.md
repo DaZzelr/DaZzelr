@@ -6,7 +6,7 @@
 </a>
 <p align="center">
   <a href="https://discord.com/users/818410274758721579">
-     <img src="(https://discord.c99.nl/widget/theme-1/818410274758721579.png)" alt="DaZzelr#8144 ( 848897059842293760 )"/>
+     <img src="https://discord.c99.nl/widget/theme-1/818410274758721579.png" alt="DaZzelr#8144 ( 818410274758721579 )"/>
        </a>
 <br><br>
 I am Tanishq Saini, and I am a Programmer, Software Developer and Discord Developer. 
